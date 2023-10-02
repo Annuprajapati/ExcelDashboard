@@ -1,4 +1,5 @@
 # ExcelDashboard
+Thanks to - Founder@ KultureHire( For this opportunity )
 Project instruction 
 Project Instructions
 The project requires you to apply all of the learnings from our class videos and apply them on a business context and build a Dashboard.
